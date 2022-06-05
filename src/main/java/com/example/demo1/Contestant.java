@@ -14,8 +14,6 @@ public class Contestant {
     }
 
 
-
-
     public double getWeight() {
         return weight;
     }

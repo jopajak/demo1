@@ -17,7 +17,7 @@ public class Main {
         db.writeJsonObject("Users", jsonObject);
 
         // Na podstawie powyższego kodu stwórz i dodaj do bazy danych instancję klasy Contestant
-        // Zwróć uwagę na metodę jsonifyUser(), będzie ona pomocna przy wykonywaniu zadania
+        // Zwróć uwagę na metodę jsonifyUser() w klasie Database, będzie ona pomocna przy wykonywaniu zadania
 
 
 
