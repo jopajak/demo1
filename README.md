@@ -1,4 +1,5 @@
-# Zadanie 1
+# ZADANIA
+<h3>Zadanie 1</h3>
 W klasie Main.java znajdziesz kod, który tworzy obiekt klasy User, a następnie
 po jego przetworzeniu umieszcza go w lokalnej bazie danych. Spróbuj wykonać analogiczną
 czynność, polegającą na dodaniu do bazy danych obiektu klasy Contestant.
@@ -12,3 +13,5 @@ W razie problemów zerknij na slad nr 13 z prezentacji. Musisz zająć się podp
 Odkomentuj linie 17-20 w pliku hello-view.fxml. Spraw by po wpisaniu do pola tekstowego
 jakiegoś słowa (np. imienia) na ekranie aplikacji wyświetlał się tekst "Hello, <imię>!".
 Użyj do tego obiektu Label i TextField (klasy te są już zaimportowane w pliku HelloController.java).
+
+<h4>Powodzenia!</h4>
