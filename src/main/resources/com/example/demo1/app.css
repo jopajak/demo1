@@ -1,0 +1,14 @@
+.root{
+    -fx-background-color: #80D8F7;
+    -fx-background-size: 100%;
+    -fx-max-height: 400;
+    -fx-max-width: 600;
+    -fx-min-height: 400;
+    -fx-min-width: 600;
+}
+.button{
+    -fx-background-color: #13226A;
+    -fx-text-fill: #80D8F7;
+    -fx-font-size: 14;
+    -fx-alignment: center;
+}
