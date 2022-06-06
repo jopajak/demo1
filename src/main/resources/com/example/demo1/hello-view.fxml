@@ -6,14 +6,22 @@
 <?import javafx.scene.effect.InnerShadow?>
 <?import javafx.scene.layout.VBox?>
 
-<VBox alignment="CENTER" prefHeight="176.0" prefWidth="242.0" spacing="20.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/18" fx:controller="com.example.demo1.HelloController">
+<?import javafx.scene.control.TextField?>
+<VBox alignment="CENTER" prefHeight="176.0" prefWidth="242.0" spacing="20.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/17" fx:controller="com.example.demo1.HelloController">
     <padding>
         <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
     </padding>
 
     <Label fx:id="welcomeText" />
+
+<!--    <TextField fx:id="textField" alignment="CENTER" layoutX="229.0" layoutY="141.0">-->
+<!--        <effect>-->
+<!--            <InnerShadow />-->
+<!--        </effect></TextField>-->
+
     <Button onAction="#onHelloButtonClick" text="Hello!">
-      <effect>
-         <InnerShadow />
-      </effect></Button>
+        <effect>
+            <InnerShadow />
+        </effect></Button>
+
 </VBox>

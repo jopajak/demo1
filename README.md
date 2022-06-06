@@ -9,3 +9,6 @@ klasa zwracała okno aplikacji zdefiniowanej przez odpowiedni plik .fxml.
 W razie problemów zerknij na slad nr 13 z prezentacji. Musisz zająć się podpunktami 3-5.
 
 #Zadanie 3
+Odkomentuj linie 17-20 w pliku hello-view.fxml. Spraw by po wpisaniu do pola tekstowego
+jakiegoś słowa (np. imienia) na ekranie aplikacji wyświetlał się tekst "Hello, <imię>!".
+Użyj do tego obiektu Label i TextField (klasy te są już zaimportowane w pliku HelloController.java).

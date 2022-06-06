@@ -12,3 +12,7 @@
     -fx-font-size: 14;
     -fx-alignment: center;
 }
+.text-field{
+    -fx-background-color: #80D8F7;
+    -fx-text-fill: #13226A;
+}
